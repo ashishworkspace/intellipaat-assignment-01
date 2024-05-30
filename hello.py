@@ -1,2 +1,2 @@
-print("_prod_")
+print("prod")
 
